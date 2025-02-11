@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  dllmain.cpp
+  DynamicLib.cpp
+  Создание кода...
+     Создается библиотека D:\projects\DynamicLib\x64\Debug\DynamicLib.lib и объект D:\projects\DynamicLib\x64\Debug\DynamicLib.exp
+  DynamicLib.vcxproj -> D:\projects\DynamicLib\x64\Debug\DynamicLib.dll
